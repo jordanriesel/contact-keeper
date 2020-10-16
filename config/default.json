@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://jordan123:Tonka34@contactkeeper.jeqwl.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "flamingos"
+}
